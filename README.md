@@ -16,4 +16,4 @@ Technologies Used
 Python, Pandas, Matplotlib, Seaborn
 
 What we Learn 
-Gain proficiency in data visualization and basic data manipulation using Pandas
+Gain proficiency in data visualization and basic data manipulation using Pandas.
